@@ -5,5 +5,10 @@
 package com.incture.demo;
 
 public class PracticeDemo {
+	
+	public void test() {
+		
+		
+	}
 
 }

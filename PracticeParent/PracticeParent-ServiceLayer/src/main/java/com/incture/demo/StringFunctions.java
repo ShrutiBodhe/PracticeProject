@@ -56,6 +56,7 @@ public class StringFunctions {
 		System.out.println(s1 == s2);
 		System.out.println(s1 == s3);
 		System.out.println(s1 == s1);
+		System.out.println("c1");
 	}
 
 }
