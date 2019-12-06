@@ -16,6 +16,7 @@ public class PracticeController {
 	private final Logger MYLOGGER = LoggerFactory.getLogger(this.getClass());
 
 	public PracticeController() {
+		MYLOGGER.info("C6");
 		System.err.println("In Practice Controllers....");
 	}
 }
