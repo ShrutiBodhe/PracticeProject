@@ -6,4 +6,9 @@ package com.incture.demo;
 
 public class PracticeDemo {
 
+	public static void main(String[] args) {
+		String str = "Shruti B";
+		System.err.println(str);
+	}
+
 }
