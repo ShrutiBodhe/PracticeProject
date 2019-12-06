@@ -17,6 +17,7 @@ public class PracticeController {
 
 	public PracticeController() {		
 		System.err.println("=================conflict===============");	
+		System.err.println("=================conflict2===============");	
 		MYLOGGER.info("C6");
 		System.err.println("================================");
 		System.err.println("=================e1===============");
