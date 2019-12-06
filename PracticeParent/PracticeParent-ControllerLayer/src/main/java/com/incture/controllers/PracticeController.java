@@ -18,7 +18,9 @@ public class PracticeController {
 	public PracticeController() {
 		System.err.println("In Practice Controllers....");
 		System.err.println("Git Chnges testing");
-		System.err.println("Git Chnges testing");
+		System.err.println("c2");
+		System.err.println("c3");
+		System.err.println("c4");
 
 	}
 }
