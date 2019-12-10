@@ -16,15 +16,7 @@ public class PracticeController {
 	private final Logger MYLOGGER = LoggerFactory.getLogger(this.getClass());
 
 	public PracticeController() {
-		MYLOGGER.info("C6");
-		System.err.println("================================");
-		System.err.println("=================e1===============");
-
+		MYLOGGER.info("My Logger in practice controller !");
 		System.err.println("In Practice Controllers....");
-		System.err.println("Git Chnges testing");
-		System.err.println("c2");
-		System.err.println("c3");
-		System.err.println("c4");
-
 	}
 }
